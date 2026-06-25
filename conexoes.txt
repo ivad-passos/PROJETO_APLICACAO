@@ -1,0 +1,6 @@
+DHT22 (temperatura) → GPIO 15
+Fotorresistor/LDR → GPIO 34
+Potenciômetro → GPIO 35
+LED RGB → GPIOs 18, 19, 21
+Buzzer → GPIO 27
+Botão → GPIO 23
